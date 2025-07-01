@@ -12,7 +12,7 @@ library(ellmer)
 
 # Before you begin
 
-Make sure that you have your `.Renviron` file set up [as described in the walkthrough](https://dmice.ohsu.edu/bedricks/courses/narch_llm_summer_2025/01_first_steps.html#first-steps)!
+Make sure that you have your `.Renviron` file set up [as described in the walkthrough](https://dmice.ohsu.edu/bedricks/courses/cc_llm_summer_2025/01_first_steps.html#first-steps)!
 
 # Experimenting with `ellmer`
 
@@ -89,4 +89,4 @@ parallel_chat_structured(c, first_10_abstracts, type=abstracted_record_type)
 
 
 Your challenge, should you choose to accept it: rewrite this prompt to produce better output. 
-The [walkthrough document](https://dmice.ohsu.edu/bedricks/courses/narch_llm_summer_2025/04_stretch_goal_structured_output.html#iterating-and-improving) has some suggestions of things to try, if you get stuck!
+The [walkthrough document](https://dmice.ohsu.edu/bedricks/courses/cc_llm_summer_2025/04_stretch_goal_structured_output.html#iterating-and-improving) has some suggestions of things to try, if you get stuck!
